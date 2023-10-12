@@ -1,4 +1,4 @@
 ```
 [ ] parowki 
-[ ] chleb 
+ 
 [ ] ketchup 
